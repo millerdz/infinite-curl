@@ -1,0 +1,17 @@
+version: "3.7"
+services:
+  alpine:
+    image: curlloop:alpine-3.9
+    command: http://www.example.org
+    deploy:
+      replicas: 2
+  ubuntu:
+    image: curlloop:ubuntu-18.04
+    command: http://www.example.org
+    deploy:
+      replicas: 2
+  centos:
+    image: curlloop:centos-7
+    command: http://www.example.org
+    deploy:
+      replicas: 2
