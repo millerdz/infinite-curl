@@ -18,7 +18,7 @@ Get the bits:
 
 ### Pull the images
 
-If you have internet access, pull the desired image(s):
+If you have internet access, pull the desired image(s) from Docker Hub:
 
 ```
 docker pull derrickdocker/curlloop:alpine-3.9
@@ -32,7 +32,7 @@ Provided you have internet access and you want to/need to modify any scripts or 
 
 ### Load the images
 
-If you do not have internet access, you can download the image TAR files [here]() and then load them in bulk onto your environment using the provided `load_images.sh`.
+If you do not have internet access, you can download the image TAR files [here](https://github.com/millerdz/infinite-curl/releases/) and then load them in bulk onto your environment using the provided `load_images.sh`.
 
 ### Non-Swarm deployment
 
