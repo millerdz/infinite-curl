@@ -14,7 +14,7 @@ ms=6170; count=3; result=200
 
 Get the bits:
 * Clone or download this repo
-* Or, grab the artifacts from a [tagged release](/releases/)
+* Or, grab the artifacts from a [tagged release](https://github.com/millerdz/infinite-curl/releases/)
 
 ### Pull the images
 
