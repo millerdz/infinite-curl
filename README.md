@@ -12,7 +12,9 @@ ms=6170; count=3; result=200
 
 ## How to use
 
-Clone this repo or download it as a compressed file to the node where you want to run the application.
+Get the bits:
+* Clone or download this repo
+* Or, grab the artifacts from a [tagged release](/releases/)
 
 ### Pull the images
 
